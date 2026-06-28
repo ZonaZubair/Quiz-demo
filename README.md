@@ -24,7 +24,7 @@ A short multiple-choice quiz with a progress bar, instant feedback, and a restar
 
 ## ✨ Extra Features
 
-- **Progress bar:"** shows how far through the quiz you are
+- **Progress bar:** shows how far through the quiz you are
 - **Restart button:** retake the quiz from scratch after seeing your score
 - **Instant visual feedback:** correct answer highlights green, wrong pick highlights red, before moving to the next question
 
