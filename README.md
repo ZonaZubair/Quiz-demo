@@ -53,7 +53,7 @@ A topic-based JS quiz — pick a topic, answer 5 questions in a random order, se
 
 ## 🚀 How to Run
 
-**Option 1: Just open it:**
+**Option 1: Just open it**
 
 No installation needed.
 
@@ -61,7 +61,7 @@ No installation needed.
 Open index.html in any browser
 ```
 
-**Option 2: Local server:**
+**Option 2: Local server**
 
 ```bash
 python3 -m http.server 8080
@@ -73,7 +73,7 @@ Then visit `http://localhost:8080`
 
 ## 🌐 Deployed
 
-*(Add your live URL here if deployed — Netlify / Vercel / GitHub Pages)*
+*(https://quiz-dw.netlify.app/)*
 
 ---
 
