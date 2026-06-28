@@ -1,4 +1,4 @@
-<h1=>🧠 JavaScript Quiz Demo</h1>
+<h1>🧠 JavaScript Quiz Demo</h1>
 
 <p=>
 A topic-based JS quiz — pick a topic, answer 5 questions in a random order, see your score, and try again. Built to practice closures, DOM manipulation, event handling, and Promises.
